@@ -1,0 +1,6 @@
+.DS_Store
+code/node_modules/
+code/coverage/
+code/data/
+code/.vscode
+.vscode/
